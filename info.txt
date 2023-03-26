@@ -1,0 +1,5 @@
+The page is created using html and css only.
+
+One of the old projects for layout training.
+
+There is no cross-browser and cross-platform layout.
